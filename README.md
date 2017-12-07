@@ -16,7 +16,7 @@ The site of this repo is deployed on the GitHub gh-pages branch and automaticall
 
 ## Communication
 
-Please join our mailing list to discuss questions regarding the project: https://groups.google.com/forum/#!forum/opntec-dev
+Please join our Mailing list to discuss questions regarding the project: https://groups.google.com/forum/#!forum/opntec-dev
 
 Our chat channel is on gitter here: https://gitter.im/loklak/loklak
 
@@ -36,11 +36,11 @@ Our chat channel is on gitter here: https://gitter.im/loklak/loklak
 * npm --version >= 3
 
 ## Installation
-First, we will need to install angular-cli by using the following command:
+First, we will need to install angular-cli using the following command:
 ```sh
 $ npm install -g @angular/cli
 ```
-After installing angular-cli we need to install our required node modules, so we will do that by using the following command:
+After installing angular-cli you need to install required node modules using the following command:
 ```sh
 $ npm install
 ```
